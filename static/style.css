@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+
+.color1{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+
+.color2{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
